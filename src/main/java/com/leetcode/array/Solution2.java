@@ -24,7 +24,7 @@ package com.leetcode.array;
  */
 public class Solution2 {
     public int maxProfit(int[] prices) {
-        if (prices.length == 0){
+        if (prices.length == 0) {
             return 0;
         }
 
